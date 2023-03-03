@@ -1,0 +1,15 @@
+E:\เขียนโค้ด\Homework1.1\bin\Debug\net7.0\Homework1.1.exe
+E:\เขียนโค้ด\Homework1.1\bin\Debug\net7.0\Homework1.1.deps.json
+E:\เขียนโค้ด\Homework1.1\bin\Debug\net7.0\Homework1.1.runtimeconfig.json
+E:\เขียนโค้ด\Homework1.1\bin\Debug\net7.0\Homework1.1.dll
+E:\เขียนโค้ด\Homework1.1\bin\Debug\net7.0\Homework1.1.pdb
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.csproj.AssemblyReference.cache
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.AssemblyInfoInputs.cache
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.AssemblyInfo.cs
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.csproj.CoreCompileInputs.cache
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.dll
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\refint\Homework1.1.dll
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.pdb
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\Homework1.1.genruntimeconfig.cache
+E:\เขียนโค้ด\Homework1.1\obj\Debug\net7.0\ref\Homework1.1.dll
